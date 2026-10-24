@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gomi-data//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:さいたま市 ごみ収集 西区 西区-01
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:af87193a2a7672e62c777458f27147e0@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260403
+RRULE:FREQ=WEEKLY;BYDAY=TU,FR
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえるごみ
+DESCRIPTION:対象: 内野本郷、指扇領辻、清河寺、高木、中釘、西新井、西大宮1～3丁目（旧指扇地区を除く）、西大宮4丁目、平方領々家、峰岸、三橋6丁目、宮前町 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:2abf0ca0ae1ed1e3e7e6fe83dfaaf2e7@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260406
+RRULE:FREQ=WEEKLY;BYDAY=MO
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえないごみ・有害危険ごみ・資源物2類
+DESCRIPTION:対象: 内野本郷、指扇領辻、清河寺、高木、中釘、西新井、西大宮1～3丁目（旧指扇地区を除く）、西大宮4丁目、平方領々家、峰岸、三橋6丁目、宮前町 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:d42b666afbc4bed567c69bc1dfa82652@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260401
+RRULE:FREQ=WEEKLY;BYDAY=WE
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:資源物1類（びん・かん・ペット・プラ）
+DESCRIPTION:対象: 内野本郷、指扇領辻、清河寺、高木、中釘、西新井、西大宮1～3丁目（旧指扇地区を除く）、西大宮4丁目、平方領々家、峰岸、三橋6丁目、宮前町 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+END:VCALENDAR

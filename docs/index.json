@@ -1,0 +1,15 @@
+{
+ "generatedAt": "2026-10-25",
+ "municipalities": [
+  {
+   "slug": "saitama",
+   "code": "111007",
+   "name": "さいたま市",
+   "prefecture": "埼玉県",
+   "version": "2026-04",
+   "courses": 77,
+   "areas": 322,
+   "json": "saitama/v1/courses.json"
+  }
+ ]
+}

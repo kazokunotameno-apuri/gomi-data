@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gomi-data//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:さいたま市 ごみ収集 岩槻区 岩槻区-03
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:8a857228b5e1aca18ce78ff179b4aecb@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260403
+RRULE:FREQ=WEEKLY;BYDAY=TU,FR
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえるごみ
+DESCRIPTION:対象: 愛宕町、岩槻、加倉1564－1～1596－3、掛、金重、並木1・2丁目、西原、西原台1・2丁目、西町1～5丁目、日の出町、平林寺、本宿、馬込、南辻、南平野、箕輪、宮町1・2丁目、美幸町 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:735e25ca3fac6984a2459c297f010124@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260406
+RRULE:FREQ=WEEKLY;BYDAY=MO
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえないごみ・有害危険ごみ・資源物2類
+DESCRIPTION:対象: 愛宕町、岩槻、加倉1564－1～1596－3、掛、金重、並木1・2丁目、西原、西原台1・2丁目、西町1～5丁目、日の出町、平林寺、本宿、馬込、南辻、南平野、箕輪、宮町1・2丁目、美幸町 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca79e5dcac7c38071f320cfb58633cc@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260402
+RRULE:FREQ=WEEKLY;BYDAY=TH
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:資源物1類（びん・かん・ペット・プラ）
+DESCRIPTION:対象: 愛宕町、岩槻、加倉1564－1～1596－3、掛、金重、並木1・2丁目、西原、西原台1・2丁目、西町1～5丁目、日の出町、平林寺、本宿、馬込、南辻、南平野、箕輪、宮町1・2丁目、美幸町 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+END:VCALENDAR

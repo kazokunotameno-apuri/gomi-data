@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gomi-data//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:さいたま市 ごみ収集 岩槻区 岩槻区-01
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:10c4868c22d0dcd23b7f5ab120016e0d@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260402
+RRULE:FREQ=WEEKLY;BYDAY=MO,TH
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえるごみ
+DESCRIPTION:対象: 大口、太田1～3丁目、大戸、大野島、大森、大谷、城町1・2丁目、仲町1・2丁目、長宮、新方須賀、東岩槻4～6丁目、本町3～6丁目、本丸1～4丁目、増長、南平野1～5丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:da4a6e694f2a7b79a2708864186d102d@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260407
+RRULE:FREQ=WEEKLY;BYDAY=TU
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえないごみ・有害危険ごみ・資源物2類
+DESCRIPTION:対象: 大口、太田1～3丁目、大戸、大野島、大森、大谷、城町1・2丁目、仲町1・2丁目、長宮、新方須賀、東岩槻4～6丁目、本町3～6丁目、本丸1～4丁目、増長、南平野1～5丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee98db155713a92f44773b8ded3b3b3@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260403
+RRULE:FREQ=WEEKLY;BYDAY=FR
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:資源物1類（びん・かん・ペット・プラ）
+DESCRIPTION:対象: 大口、太田1～3丁目、大戸、大野島、大森、大谷、城町1・2丁目、仲町1・2丁目、長宮、新方須賀、東岩槻4～6丁目、本町3～6丁目、本丸1～4丁目、増長、南平野1～5丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+END:VCALENDAR

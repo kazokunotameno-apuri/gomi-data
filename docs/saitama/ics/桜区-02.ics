@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gomi-data//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:さいたま市 ごみ収集 桜区 桜区-02
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:06631f9c42b56b9307b92ba1db0f76c6@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260402
+RRULE:FREQ=WEEKLY;BYDAY=MO,TH
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえるごみ
+DESCRIPTION:対象: 大久保領家、五関、桜田1～3丁目、神田、塚本、道場（大字）、道場1・3～5丁目、西堀（大字）、西堀１～10丁目、町谷（大字）、町谷1～4丁目、南元宿（大字）、南元宿1・2丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:20d9e5b982c61413e629b09c79dc6e81@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260403
+RRULE:FREQ=WEEKLY;BYDAY=FR
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえないごみ・有害危険ごみ・資源物2類
+DESCRIPTION:対象: 大久保領家、五関、桜田1～3丁目、神田、塚本、道場（大字）、道場1・3～5丁目、西堀（大字）、西堀１～10丁目、町谷（大字）、町谷1～4丁目、南元宿（大字）、南元宿1・2丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:f738e2b5f13589cb902ded55d92c26ce@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260407
+RRULE:FREQ=WEEKLY;BYDAY=TU
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:資源物1類（びん・かん・ペット・プラ）
+DESCRIPTION:対象: 大久保領家、五関、桜田1～3丁目、神田、塚本、道場（大字）、道場1・3～5丁目、西堀（大字）、西堀１～10丁目、町谷（大字）、町谷1～4丁目、南元宿（大字）、南元宿1・2丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+END:VCALENDAR

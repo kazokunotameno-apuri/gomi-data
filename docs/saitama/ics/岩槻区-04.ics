@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gomi-data//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:さいたま市 ごみ収集 岩槻区 岩槻区-04
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:c12d69b3f0524f0b7fb57a5332fa18d3@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260403
+RRULE:FREQ=WEEKLY;BYDAY=TU,FR
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえるごみ
+DESCRIPTION:対象: 相野原、上野（大字）、上野1～6丁目、裏慈恩寺、表慈恩寺、鹿室、上里1・2丁目、古ヶ場（大字）、古ヶ場1・2丁目、小溝、慈恩寺、諏訪1～5丁目、徳力、東岩槻1～3丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:afe01886c091aa6aa76d52ce573c8613@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260401
+RRULE:FREQ=WEEKLY;BYDAY=WE
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえないごみ・有害危険ごみ・資源物2類
+DESCRIPTION:対象: 相野原、上野（大字）、上野1～6丁目、裏慈恩寺、表慈恩寺、鹿室、上里1・2丁目、古ヶ場（大字）、古ヶ場1・2丁目、小溝、慈恩寺、諏訪1～5丁目、徳力、東岩槻1～3丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8a782c582861eb8a1350ba4da9482b@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260406
+RRULE:FREQ=WEEKLY;BYDAY=MO
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:資源物1類（びん・かん・ペット・プラ）
+DESCRIPTION:対象: 相野原、上野（大字）、上野1～6丁目、裏慈恩寺、表慈恩寺、鹿室、上里1・2丁目、古ヶ場（大字）、古ヶ場1・2丁目、小溝、慈恩寺、諏訪1～5丁目、徳力、東岩槻1～3丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+END:VCALENDAR

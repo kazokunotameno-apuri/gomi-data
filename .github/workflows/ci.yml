@@ -1,0 +1,24 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 独立資料との照合（びん収集仕様書）
+        run: python scripts/verify_saitama_bin.py
+      - name: 生成物が正本と一致しているか
+        run: |
+          python scripts/build.py
+          # generatedAt / DTSTAMP 以外に差分があれば失敗（build.py を実行し忘れている）
+          git diff --ignore-matching-lines='generatedAt' --ignore-matching-lines='DTSTAMP' --exit-code -- docs/ \
+            || (echo "::error::docs/ が古いです。python scripts/build.py を実行してコミットしてください" && exit 1)
+      - run: python -m pytest -q tests

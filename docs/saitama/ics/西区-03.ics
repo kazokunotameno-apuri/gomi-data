@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gomi-data//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:さいたま市 ごみ収集 西区 西区-03
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:72186ae435e8791b3c7435c4a05d04fa@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260403
+RRULE:FREQ=WEEKLY;BYDAY=TU,FR
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえるごみ
+DESCRIPTION:対象: 飯田、飯田新田、植田谷本、植田谷本村新田、佐知川、三条町、島根、昭和、塚本（大字）、塚本町1～3丁目、土屋、中野林、西遊馬、二ツ宮、プラザ、水判土、三橋5丁目、湯木町1・2丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:1d01f4c0c39e3dec25f0d2f593d21d07@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260402
+RRULE:FREQ=WEEKLY;BYDAY=TH
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえないごみ・有害危険ごみ・資源物2類
+DESCRIPTION:対象: 飯田、飯田新田、植田谷本、植田谷本村新田、佐知川、三条町、島根、昭和、塚本（大字）、塚本町1～3丁目、土屋、中野林、西遊馬、二ツ宮、プラザ、水判土、三橋5丁目、湯木町1・2丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7bb5ac7e2d890791fb1ee2aa7b4ff8@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260406
+RRULE:FREQ=WEEKLY;BYDAY=MO
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:資源物1類（びん・かん・ペット・プラ）
+DESCRIPTION:対象: 飯田、飯田新田、植田谷本、植田谷本村新田、佐知川、三条町、島根、昭和、塚本（大字）、塚本町1～3丁目、土屋、中野林、西遊馬、二ツ宮、プラザ、水判土、三橋5丁目、湯木町1・2丁目 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gomi-data//JP
+CALSCALE:GREGORIAN
+X-WR-CALNAME:さいたま市 ごみ収集 見沼区 見沼区-06
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:3381e339c5d79c942ee2f5edbd94ee31@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260403
+RRULE:FREQ=WEEKLY;BYDAY=TU,FR
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえるごみ
+DESCRIPTION:対象: 加田屋2丁目、加田屋新田、片柳（大字）、片柳1・2丁目、片柳東、上山口新田、笹丸、新右エ門新田、染谷（大字）、染谷1～3丁目、中川、西山新田、西山村新田、東新井、御蔵、見山、山 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:121ba57d97ba95f80148f4ff0dc90f41@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260402
+RRULE:FREQ=WEEKLY;BYDAY=TH
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:もえないごみ・有害危険ごみ・資源物2類
+DESCRIPTION:対象: 加田屋2丁目、加田屋新田、片柳（大字）、片柳1・2丁目、片柳東、上山口新田、笹丸、新右エ門新田、染谷（大字）、染谷1～3丁目、中川、西山新田、西山村新田、東新井、御蔵、見山、山 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+BEGIN:VEVENT
+UID:0844d128c808182dc82252eb44b12063@gomi-data
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20260401
+RRULE:FREQ=WEEKLY;BYDAY=WE
+EXDATE;VALUE=DATE:20270101,20270102,20270103
+SUMMARY:資源物1類（びん・かん・ペット・プラ）
+DESCRIPTION:対象: 加田屋2丁目、加田屋新田、片柳（大字）、片柳1・2丁目、片柳東、上山口新田、笹丸、新右エ門新田、染谷（大字）、染谷1～3丁目、中川、西山新田、西山村新田、東新井、御蔵、見山、山 / 08:30までに / 出典: 家庭ごみの出し方マニュアル 令和8年度版 p.18-19 地区別ごみ収集曜日一覧表（令和8年3月1日時点）
+END:VEVENT
+END:VCALENDAR
